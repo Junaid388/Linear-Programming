@@ -9,4 +9,4 @@ Linear programing can also be applied to stratedy games, much like Clash of Clan
  Step 2 - Define the Objective Function
  Step 3 - Writing the Constraints
  Step 4 - Implement the linear model
- Step 4 - Check the optimal Result
+ Step 5 - Check the optimal Result
