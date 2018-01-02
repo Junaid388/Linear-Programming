@@ -45,7 +45,7 @@ get.objective(lprec)
 
 #Get the solution as how many model A and B cars to be produced to get more profit
 get.variables(lprec)
-# For, to achieve the maximum profit ($650000), the company should produce 100 model A cars and 170 model B cars
+# to achieve the maximum profit of ($650000), the company should produce 100 model A cars and 170 model B cars
 
 plot(lprec)
 
